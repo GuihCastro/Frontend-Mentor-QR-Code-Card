@@ -9,23 +9,19 @@ Essa é uma solução para o desafio [QR code component challenge on Frontend Me
   - [Links](#links)
 - [Tecnologias utilizadas](#tecnologias-utilizadas)
 
-**Note: Delete this note and update the table of contents based on what sections you keep.**
-
 ## Overview
 
 ### Screenshots
 
-![image-20230810100336082](C:\Users\Acer\AppData\Roaming\Typora\typora-user-images\image-20230810100336082.png)
-
-![image-20230810100414288](C:\Users\Acer\AppData\Roaming\Typora\typora-user-images\image-20230810100414288.png)
-
-![image-20230810100459651](C:\Users\Acer\AppData\Roaming\Typora\typora-user-images\image-20230810100459651.png)
+<img src="./assets/img/screen-solution-vs-design.png" alt="Screenshot Solution vs. Design" />
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- [My Solution](https://www.frontendmentor.io/solutions/qr-code-card-7XHU7A0dwc)
+- [Live Site](https://guihcastro.github.io/Frontend-Mentor-QR-Code-Card/)
 
 ## Tecnologias utilizadas
 
-![icons8-html-5-48](C:\Users\Acer\Downloads\icons8-html-5-48.png) ![icons8-css3-48](C:\Users\Acer\Downloads\icons8-css3-48.png) 
+- <img src="./assets/img/html-icon.png" alt="HTML5 Icon" width="50px" /> HTML semântico;
+
+- <img src="./assets/img/css-icon.png" alt="CSS3 Icon" width="50px" /> CSS.
